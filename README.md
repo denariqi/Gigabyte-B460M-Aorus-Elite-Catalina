@@ -5,7 +5,7 @@
 - AMD RX570 4G
 - BCM94360CD
 - MacPro7.1
-- Monterey 12.7.5
+- Catalina
 - Working Opencore 7.6
 # ACPI
 - SSDT-PLUG-DRTNIA.aml
