@@ -4,7 +4,7 @@
 - DDR4 2666 32GB(16GB+16GB)
 - AMD RX570 4G
 - BCM94360CD
-- MacPro7.1
+- iMac20,1
 - Catalina
 - Working Opencore 7.6
 # ACPI
