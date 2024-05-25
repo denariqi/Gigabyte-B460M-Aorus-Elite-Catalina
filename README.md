@@ -31,7 +31,7 @@
 - AppleALC
 - NVMeFix
 - RestrictEvents
-- USBPorts
+- USBPorts (USBInjectAll)
 - IntelMausi
 - AGPMInjector
 - RadeonBoost
