@@ -35,4 +35,4 @@
 - IntelMausi
 - AGPMInjector
 - RadeonBoost
-- XHCI-unsupported.kext
+- XHCI-unsupported
