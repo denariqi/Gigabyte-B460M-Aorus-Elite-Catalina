@@ -5,7 +5,7 @@
 - AMD RX570 4G (Sapphire)
 - BCM94360CD
 - iMac20,1 (MacPro7.1)
-- Catalina
+- macOS: Catalina
 - Working OpencCore 7.6
 # ACPI
 - SSDT-PLUG-DRTNIA.aml
