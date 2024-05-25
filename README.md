@@ -6,11 +6,12 @@
 - BCM94360CD
 - MacPro7.1
 - Monterey 12.7.5
-- Working Opencore 8.6
+- Working Opencore 7.6
 # ACPI
-- SSDT-PLUG.aml
-- SSDT-EC-USBX.aml
+- SSDT-PLUG-DRTNIA.aml
+- SSDT-EC-USBX-DESKTOP.aml
 - SSDT-AWAC.aml
+- SSDT-PM.aml
 # Drivers
 - HfsPlus.efi
 - OpenRuntime.efi
@@ -30,3 +31,8 @@
 - AppleALC
 - NVMeFix
 - RestrictEvents
+- USBPorts
+- IntelMausi
+- AGPMInjector
+- RadeonBoost
+- XHCI-unsupported.kext
