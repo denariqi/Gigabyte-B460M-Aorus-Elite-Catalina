@@ -6,7 +6,7 @@
 - BCM94360CD
 - iMac20,1
 - Catalina
-- Working Opencore 7.6
+- Working OpencCore 7.6
 # ACPI
 - SSDT-PLUG-DRTNIA.aml
 - SSDT-EC-USBX-DESKTOP.aml
