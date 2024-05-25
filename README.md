@@ -1,6 +1,6 @@
 # Gigabyte-B460M-Aorus-Elite Hackintosh
 - Gigabyte B460M Aorus Elite
-- Intel 10th Gen Cpu 10400F
+- 10th Gen Intel(R) Core(TM) i5-10400F
 - DDR4 2666 32GB(16GB+16GB)
 - AMD RX570 4G
 - BCM94360CD
