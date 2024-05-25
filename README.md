@@ -2,7 +2,7 @@
 - Gigabyte B460M Aorus Elite
 - 10th Gen Intel(R) Core(TM) i5-10400(F)
 - DDR4 2666 32GB(16GB+16GB)
-- AMD RX570 4G
+- AMD RX570 4G (Sapphire)
 - BCM94360CD
 - iMac20,1(MacPro7.1)
 - Catalina
