@@ -15,13 +15,10 @@
 # Drivers
 - HfsPlus.efi
 - OpenRuntime.efi
-- ResetNvramEntry.efi
-- ToggleSipEntry.efi
-- OpenCanopy.efi
 # Tools
-- CleanNvram.efi
-- ControlMsrE2.efi
+- CFGLock.efi
 - OpenShell.efi
+- VerifyMsrE2.efi
 # KextS
 - Lilu
 - VirtualSMC
