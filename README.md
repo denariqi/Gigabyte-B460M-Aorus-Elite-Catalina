@@ -1,12 +1,12 @@
 # Gigabyte-B460M-Aorus-Elite Hackintosh
 - Gigabyte B460M Aorus Elite
-- 10th Gen Intel(R) Core(TM) i5-10400 (F)
+- 10th Gen Intel(R) Core(TM) i5-10400 (F)  Intel Comet Lake
 - DDR4 2666 32GB (16GB+16GB)
 - AMD RX570 4G (Sapphire)
 - BCM94360CD
 - iMac20,1 (MacPro7.1)
-- macOS: Catalina
-- Working OpencCore 7.6
+- macOS: Catalina Later
+- BASE EFI: OpencCore 7.6
 # ACPI
 - SSDT-PLUG-DRTNIA.aml
 - SSDT-EC-USBX-DESKTOP.aml
